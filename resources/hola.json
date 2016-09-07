@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hipoteca-multidivisa",
+  "private_key_id": "c09bbaf59b2f133841baf7385f333067d2daa95b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDY2DOSgDeBOdXl\nZl9h2LkBAXGOwXht9gJOJw9Kd0+9cgAGl1vdneGU6I6MK8nZE/P1set45yeBP5Wx\nTMam+RMygc8KP3etC2Rcze2douyHV8NHx/gD+4Z5kURBj8nx4LA/WuqwuEhuogoh\ngtjMv1vHW1+PUmqi9GOXaMyDohuT8hYj/THD+aEYO6jmcT9geECoRz7DdBjAvohp\nV7Ib9Xu7E4Gr8yO1UfCeKjqAB9Yg/BVFLka8eKjiZ+F+Zn9QCvVp6+ngAbb1DQg1\nbSlTOBUQ6cJcf9TMFUKpNpVSLT8P8nOp/7vgWGEFmSfxyrRO+N71UGuDBQyIF18Y\nTmPBO3WPAgMBAAECggEAJ4QmydDRzJvkjdx9D1C2TiecMR6yup81Rla546Egh+6J\ncKoOlLFb1Y4XxBWKwCNxttmIhszhFx2mQtwx62XCiNa9CyoLvh4wWPUyEyMIpZVp\nweAAI4GnvOmrHaN9crW2iKUh1biPgpHG9Npqdc19hTPykyS6yB1vNL1lX6ugCPKj\n4esWbszT4jObgRYDg9YxeqLAKtl6jSqT5rxgZffI4Oibq7cMAUQaXLrOpGhVgJ9V\natZi/eN487y2Hw3lhl/0vEuW4ZjytRdE0NUDCes8jxnFs1Nx3+LPSpR2GbNtJjxz\nAmQoy7AowEL8nkRiQXavz+jAR5eavifkooD42tIkKQKBgQD8Ls2tvbXCtjPtvla8\nE4o0LjzJfeZP7wZo51AhhGzvQ+7+vXyky3KbWL8OdWYsEtm3vI9UhO5chqgmEtY4\nwtYc+brk/V27mbz/qix6yABO1/bxCLfLHkjYXYLnN4TPpwmqMUFjIrvjkoPUJYi1\nFOYqPxn+WAPU+igmtnba8exFuwKBgQDcIHa8uQzUerEIPniDu3+mpFlSfbM5GqkI\nAh67u8a8QDydE1DiENxRloESHzA1v7/ZO3VjFquRrNhoMUfw5BKh8diCcsusWIxK\nIiNs9CiRCNzD4qTAUhsOlnkVT5drPLf5UX3+i3m2er3EbyS6DxNM2H8sXLchRFr6\nru5gaLMIPQKBgFNod4a7dF6OPOapSa6zF8bidCCAj6hoekpAF3S+g/kvEuEWcx9e\nWu2ekLKLiduR8IigyRc/UEcyEnNlT40+g+rZfkM2ucXOt4AoHMYPWGq7a2WVaJS5\n04Ych6tJ5Zd4u+2alPHhDxvZ3dhRAcJCw029yS8ilUHf61/CgdUwpuD5AoGAbTf6\nUfcrA34AuotsdkggtQkUfJZ7x1iQB7Ytk44+tAbXTERaPGCLQDwBvIEXBYQnZ1xW\nCR0lcXkmQsQ44q/3Ar0hZNAaeF/S87FujE+0lQmlp9ebUQUsAZftagJ8qauNyLmD\nXznK4RyTbZSLz3lNZTKCHvu9rVbiIUGMau9n7S0CgYAkK596Khdths6Zu+blbVG7\nZ/Ug0zLhqbcW0wUbp7g7Pl9BkcBMkhPLWQJM8ROrWEZWuZCfJPivNMVY28NanfNS\nbUh8t4RGsBRDP6b/DMim8tLJgACCdR1wDAQsvOjSnkhVZ9+52JAWIj20MmBuutST\n2igGbPDZk0Vt9h4KHx5sHA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "server-divisa@hipoteca-multidivisa.iam.gserviceaccount.com",
+  "client_id": "107647176648864049096",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server-divisa%40hipoteca-multidivisa.iam.gserviceaccount.com"
+}
